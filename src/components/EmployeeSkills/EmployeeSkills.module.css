@@ -1,0 +1,11 @@
+.employee-skills {
+  margin-bottom: 2rem;
+}
+.employee-skills ul {
+  padding-left: 2%;
+  font-size: 12px;
+}
+
+.employee-skills ul li:not(:last-child) {
+  margin-bottom: 8px;
+}

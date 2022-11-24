@@ -1,0 +1,20 @@
+.employee-university {
+  color: #666;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.employee-education-details {
+  font-size: 13px;
+}
+.education-duration {
+  font-size: 14px;
+}
+
+.employee-education-details li:not(:last-child) {
+  margin-bottom: 0.2rem;
+}
+
+.employee-education-details {
+  padding-left: 2%;
+}

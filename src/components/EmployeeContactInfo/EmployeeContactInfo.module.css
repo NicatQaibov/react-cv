@@ -1,0 +1,16 @@
+.employee-contacts {
+  color: #666;
+  font-weight: 400;
+  font-size: 12px;
+
+  font-family: sans-serif;
+  margin-bottom: 2rem;
+}
+
+.employee-contacts ul {
+  list-style: none;
+}
+
+.employee-contacts ul li:not(:last-child) {
+  margin-bottom: 12px;
+}
